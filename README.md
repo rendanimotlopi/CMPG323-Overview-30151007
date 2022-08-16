@@ -5,7 +5,7 @@
 I will be creating a new repository for each project. from project 2 - project 5.
 I will be creating a new repository for each project throught.
 
-* project 1
+* project 1 ( for project 1 which is this one I have already created its repository )
 * project 2
 * project 3
 * project 4
