@@ -14,11 +14,6 @@ I will be creating a new repository for each project throught.
 
 All this projects will be having their own repositories, there will be a total of five five repository aligned to each project.
 
-## Diagram
-
-
-
-
 ## Branching strategies
 In my project I will be using Git flow branching on each project throught,
 
