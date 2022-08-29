@@ -16,9 +16,6 @@ All this projects will be having their own repositories, there will be a total o
 
 ## Diagram
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://mfdot.com/AboutMe/Diagram.drawio.svg" alt="" style="width: 500px ;height:300px">
-</div>
 
 
 
