@@ -46,7 +46,9 @@ Dependencies which can be downloaded from a package manager
  I will also use the  git-credential-store to store my passwords unencrypted on the disk.
  If I commit sensitive data, such as a password or SSH key into a Git repository, I will  remove it from the history. To entirely remove  that sensitive  or unwanted files from a repository's history I Will use either the git filter-repo tool or the BFG Repo-Cleaner open source tool.
 Most credentials will be stored using the Git Credential Manager (GCM) is another way to store your credentials securely and connect to GitHub over HTTPS. 
- 
+ ## the screenshots for chats
+ ![image](https://user-images.githubusercontent.com/111001425/187912484-2384fba1-821b-4570-948c-c05997d3e9f0.png)
+
  ## References
  [Branching strategies](https://www.flagship.io/git-branching-strategies/)
  
