@@ -48,6 +48,10 @@ Dependencies which can be downloaded from a package manager
 Most credentials will be stored using the Git Credential Manager (GCM) is another way to store your credentials securely and connect to GitHub over HTTPS. 
  ## the screenshots for chats
  ![image](https://user-images.githubusercontent.com/111001425/187912484-2384fba1-821b-4570-948c-c05997d3e9f0.png)
+ 
+ ## screenshot for label
+ ![image](https://user-images.githubusercontent.com/111001425/187912870-b33427cc-defb-4ebd-9f1f-4bcd3a410f0a.png)
+
 
  ## References
  [Branching strategies](https://www.flagship.io/git-branching-strategies/)
