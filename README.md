@@ -52,6 +52,9 @@ Most credentials will be stored using the Git Credential Manager (GCM) is anothe
  ## screenshot for label
  ![image](https://user-images.githubusercontent.com/111001425/187912870-b33427cc-defb-4ebd-9f1f-4bcd3a410f0a.png)
 
+## screenshot for status chat
+![image](https://user-images.githubusercontent.com/111001425/187913335-14067241-3840-434a-bd85-561f67d6fd2a.png)
+
 
  ## References
  [Branching strategies](https://www.flagship.io/git-branching-strategies/)
