@@ -60,3 +60,6 @@ Most credentials will be stored using the Git Credential Manager (GCM) is anothe
  [Branching strategies](https://www.flagship.io/git-branching-strategies/)
  
  [Sensitive info](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
+ 
+ ## I am now doing project two and I have updated my git hub of the work that ihave done so far
+ project 2 is where I am creating and API i ahve already created the repository for the project 2 which i will be using throughout my project 2
