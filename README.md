@@ -66,3 +66,5 @@ Most credentials will be stored using the Git Credential Manager (GCM) is anothe
  
  ## Progress updates- project 3
  SO far i am in print 5 doing project 3, I have createded a repository for project 3 named CMPG323-Project-3 ,and this project i have been given an existing MVC web application that i need to enhance and improve it so that i can meet the requirements of the project  
+ I have folked the repository of ma'am and add the generic and igeneric interface and the the repositories for all my models of categories, devices  and zones. and I followed tier two implementations to my project and i have addited my github board so far up to date
+ 
