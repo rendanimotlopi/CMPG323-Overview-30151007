@@ -63,3 +63,6 @@ Most credentials will be stored using the Git Credential Manager (GCM) is anothe
  
  ## I am now doing project two and I have updated my git hub of the work that ihave done so far
  project 2 is where I am creating and API i ahve already created the repository for the project 2 which i will be using throughout my project 2
+ 
+ ## Progress updates- project 3
+ SO far i am in print 5 doing project 3, I have createded a repository for project 3 named CMPG323-Project-3 ,and this project i have been given an existing MVC web application that i need to enhance and improve it so that i can meet the requirements of the project  
